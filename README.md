@@ -69,6 +69,14 @@ css
 
 ## Code from the project
 - HTML
+Here are some basic HTML rules for creating a login form:
+Create a form container using the **`<form>`** tag.
+Add controls for the username and password using the **`<input>`** tag. For the password input field, you can add the **`type="password"`** attribute to hide the entered text.
+Label each input field using the **`<label>`** tag. The label's for attribute must match the control's id attribute.
+Add a form submit button using the **`<button>`** or **`<input>`** tag with the **`type="submit"`** attribute.
+Add elements to display error messages or form submission success, if needed.
+
+The result of the HTML code for the login form in this project:
 ```html
 <!DOCTYPE html>
 <html>
@@ -95,6 +103,7 @@ css
 </html>
 ```
 - CSS
+
 ```css
 body{
 	margin: 0;
@@ -134,3 +143,22 @@ body{
 	color: #483D8B;
 }
 ```
+
+## Recomendation
+The style of the login form can vary depending on the design of your site or application, but here are some general tips for styling the login form:
+
+Choose a color combination that matches the overall style of your site. You can use the main color of the brand or choose other colors that go well with each other.
+
+Use clear and understandable labels for each input field so that users know what to enter.
+
+Make the input fields and buttons large enough so that users can easily fill out the form on mobile devices.
+
+Use modern fonts and make sure they display clearly on all devices.
+
+Use animations to create interactivity. For example, a submit button might change color on hover, or use animation when submitting a form.
+
+Use icons to improve the visual appeal of the form. For example, you can add a user icon or padlock for the password entry field.
+
+Use rounded corners and other geometric shapes to create a modern and minimal style.
+
+It is important to remember that the style of the form should match the design of your site or application, as well as be convenient and intuitive for users.
