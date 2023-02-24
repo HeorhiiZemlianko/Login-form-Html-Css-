@@ -103,7 +103,16 @@ The result of the HTML code for the login form in this project:
 </html>
 ```
 - CSS
+Here are some basic CSS rules for styling the login form:
+Determine the width and height of the form using the **`width`** and **`height`** properties.
+Define padding for the form and its elements using the **`margin`** and **`padding`** properties.
+Define fonts and text colors for labels, buttons, and input fields using the **`font-family`**, **`font-size`**, **`color`** properties.
+Use the **`:hover`** and **`:focus`** pseudo-elements to create hover or focus effects on elements.
+Style the form's submit button so that it stands out and is easily visible.
+Use the **`::before`** and **`::after`** pseudo-elements to create decorative elements such as arrows, padlocks, or other icons.
+Define styles to display error or form submission success messages, if needed.
 
+The result of the CSS code for the login form in this project:
 ```css
 body{
 	margin: 0;
