@@ -1,6 +1,6 @@
 <h1 align="center">Login form (HTML/CSS)</h1>
 
-<h3 align="center">This is a simple login form that you can easily customize and adapt to your needs. Link to the demo of this project: <a href=" ">Page</a>
+<h3 align="center">This is a simple login form that you can easily customize and adapt to your needs. Link to the demo of this project: <a href="https://heorhiizemlianko.github.io/Login-form-Html-Css-/formregist.html">Page</a>
 </h3>
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
@@ -39,7 +39,7 @@ It is important to remember that a beautiful login form design should not interf
 
 ## Task statement
 <p>A simple experiment with <b>css & html</b> and its possibilities.</p>
-<p>A demo implementation of this template can be viewed at this link:<a href="https://heorhiizemlianko.github.io/3D-Layer-Image-Hover-Effect/3dimaje.html"> <b>login form</b> </a></p>
+<p>A demo implementation of this template can be viewed at this link:<a href="https://heorhiizemlianko.github.io/Login-form-Html-Css-/formregist.html"> <b>Login form</b> </a></p>
 
 ## Schematic representation of the HTML structure
 ```
