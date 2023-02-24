@@ -69,6 +69,7 @@ css
 
 ## Code from the project
 - HTML
+
 Here are some basic HTML rules for creating a login form:
 Create a form container using the **`<form>`** tag.
 Add controls for the username and password using the **`<input>`** tag. For the password input field, you can add the **`type="password"`** attribute to hide the entered text.
@@ -103,6 +104,7 @@ The result of the HTML code for the login form in this project:
 </html>
 ```
 - CSS
+
 Here are some basic CSS rules for styling the login form:
 Determine the width and height of the form using the **`width`** and **`height`** properties.
 Define padding for the form and its elements using the **`margin`** and **`padding`** properties.
