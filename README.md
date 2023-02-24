@@ -74,7 +74,7 @@ Create a form container using the **`<form>`** tag.
 Add controls for the username and password using the **`<input>`** tag. For the password input field, you can add the **`type="password"`** attribute to hide the entered text.
 Label each input field using the **`<label>`** tag. The label's for attribute must match the control's id attribute.
 Add a form submit button using the **`<button>`** or **`<input>`** tag with the **`type="submit"`** attribute.
-Add elements to display error messages or form submission success, if needed.
+Add elements to display error messages or form submission success, if needed. 
 
 The result of the HTML code for the login form in this project:
 ```html
