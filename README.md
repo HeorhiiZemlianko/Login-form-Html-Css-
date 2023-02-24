@@ -1,4 +1,4 @@
-<h1 align="center">3D Layer Image Hover Effect</h1>
+<h1 align="center">Login form (HTML/CSS)</h1>
 
 <h3 align="center">This program implements a simple scheme for implementing a 3D hover effect with overlaying shadows on an object. This screenshot was taken from a design that was developed for a fitness app. Link to the design of this project: <a href="https://www.behance.net/gallery/41483809/Landing-page-of-the-application-PART_2">Behance</a>
 </h3>
